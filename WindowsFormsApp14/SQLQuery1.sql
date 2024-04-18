@@ -1,0 +1,1 @@
+﻿DELETE FROM dbo.Teachers WHERE id= @KeyToDelete
